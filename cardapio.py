@@ -4,3 +4,5 @@ cardapio_bk ={
     "hamburguer_3":"chiken"
 }
 print(cardapio_bk["hamburguer_3"])
+
+errado pakas
